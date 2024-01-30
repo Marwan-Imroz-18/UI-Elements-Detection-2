@@ -1,0 +1,24 @@
+names:
+- breadcrumb
+- button
+- checkbox
+- dropdown
+- form
+- image
+- input field
+- links
+- logo
+- modal
+- navigation dots
+- radio
+- text
+nc: 13
+roboflow:
+  license: CC BY 4.0
+  project: web-elements-rn0zn
+  url: https://universe.roboflow.com/ulkesh/web-elements-rn0zn/dataset/1
+  version: 1
+  workspace: ulkesh
+test: ../test/images
+train: web-elements-1/train/images
+val: web-elements-1/valid/images
